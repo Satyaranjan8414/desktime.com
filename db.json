@@ -1,0 +1,375 @@
+{
+  "faq": [
+    {
+      "id": 1,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    },
+    {
+      "id": 2,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    },
+    {
+      "id": 3,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    },
+    {
+      "id": 4,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    },
+    {
+      "id": 5,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    },
+    {
+      "id": 6,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    },
+    {
+      "id": 7,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    },
+    {
+      "id": 8,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    },
+    {
+      "id": 9,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    },
+    {
+      "id": 10,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    },
+    {
+      "id": 11,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    },
+    {
+      "id": 12,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    },
+    {
+      "id": 13,
+      "title": "Getting started",
+      "line1": "How to set up my account (Sign up, download, launch)?",
+      "line2": "How to start tracking your time?",
+      "line3": "How to log in to the desktop application?",
+      "line4": "How to invite the employee to my company account?",
+      "line5": "MacOS permissions to use DeskTime",
+      "line6": "How to install DeskTime on Linux?",
+      "line7": "How to install DeskTime on macOS?",
+      "line8": "Top things to do after creating your account",
+      "line9": "How to start tracking my time as an employee?",
+      "line10": "How to change the Productivity Level of an App/URL ?"
+    }
+  ],
+
+  "bloging": [
+    {
+      "id": 11,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/06/digital-nomads.png",
+      "main": "The pros and cons of hiring digital nomads",
+      "text": "What are the opportunities and challenges of hiring digital nomads for your company? Have a read and you’ll find out!",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
+      "name": "Krista Krumina",
+      "calendar": "9.06.2022"
+    },
+    {
+      "id": 12,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/06/workforce-analytics.png",
+      "main": "11 clocking in apps for your business",
+      "text": "We’ve come a long way since the 1880s when the first mechanical time recorder to punch in and out was invented. But, although technologies have changed, the need to keep up with your team’s hours has stayed the same. So this is where clocking in apps come in.",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/49eb79d59d9c58cddc369d67ab69dc22?s=40&d=mm&r=g",
+      "name": "Līva Spandega",
+      "calendar": "6.06.2022"
+    },
+    {
+      "id": 13,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/05/career.png",
+      "main": "9 Career advancement tips for employees",
+      "text": "If you’ve been recently thinking on ways to advance in your career, this article with nine practical tips is the perfect read for you Land your dream job or score that desired promotion!",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/43093be3621c289168c939fded4bd057?s=40&d=mm&r=g",
+      "name": "Guest Author",
+      "calendar": "30.05.2022"
+    },
+    {
+      "id": 14,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/05/workforce-analytics.png",
+      "main": "Your company needs workforce analytics – here’s why",
+      "text": "Much like how marketing analytics tools allow you to track, analyze, and optimize customer behavior, workforce analytics helps you do something similar…",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/17a01547506e289b02ed7f689b82b628?s=40&d=mm&r=g",
+      "name": "Viesturs Abelis",
+      "calendar": "27.05.2022"
+    },
+    {
+      "id": 15,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/05/employee-attendance.png",
+      "main": "How an employee attendance tracker can help you keep your team organized",
+      "text": "If you’re a team manager, keeping an eye out on what everyone is doing and when can become tricky, but luckily, there’s…",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/49eb79d59d9c58cddc369d67ab69dc22?s=40&d=mm&r=g",
+      "name": "Līva Spandega",
+      "calendar": "25.05.2022"
+    },
+    {
+      "id": 16,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/06/digital-nomads.png",
+      "main": "The pros and cons of hiring digital nomads",
+      "text": "What are the opportunities and challenges of hiring digital nomads for your company? Have a read and you’ll find out!",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
+      "name": "Krista Krumina",
+      "calendar": "9.06.2022"
+    },
+    {
+      "id": 17,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/06/workforce-analytics.png",
+      "main": "11 clocking in apps for your business",
+      "text": "We’ve come a long way since the 1880s when the first mechanical time recorder to punch in and out was invented. But, although technologies have changed, the need to keep up with your team’s hours has stayed the same. So this is where clocking in apps come in.",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/49eb79d59d9c58cddc369d67ab69dc22?s=40&d=mm&r=g",
+      "name": "Līva Spandega",
+      "calendar": "6.06.2022"
+    },
+    {
+      "id": 18,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/05/career.png",
+      "main": "9 Career advancement tips for employees",
+      "text": "If you’ve been recently thinking on ways to advance in your career, this article with nine practical tips is the perfect read for you Land your dream job or score that desired promotion!",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/43093be3621c289168c939fded4bd057?s=40&d=mm&r=g",
+      "name": "Guest Author",
+      "calendar": "30.05.2022"
+    },
+    {
+      "id": 19,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/05/workforce-analytics.png",
+      "main": "Your company needs workforce analytics – here’s why",
+      "text": "Much like how marketing analytics tools allow you to track, analyze, and optimize customer behavior, workforce analytics helps you do something similar…",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/17a01547506e289b02ed7f689b82b628?s=40&d=mm&r=g",
+      "name": "Viesturs Abelis",
+      "calendar": "27.05.2022"
+    }
+  ],
+  "topbloging": [
+    {
+      "id": 21,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/06/digital-nomads.png",
+      "main": "The pros and cons of hiring digital nomads",
+      "text": "What are the opportunities and challenges of hiring digital nomads for your company? Have a read and you’ll find out!",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
+      "name": "Krista Krumina",
+      "calendar": "9.06.2022"
+    },
+    {
+      "id": 22,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/06/workforce-analytics.png",
+      "main": "11 clocking in apps for your business",
+      "text": "We’ve come a long way since the 1880s when the first mechanical time recorder to punch in and out was invented. But, although technologies have changed, the need to keep up with your team’s hours has stayed the same. So this is where clocking in apps come in.",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/49eb79d59d9c58cddc369d67ab69dc22?s=40&d=mm&r=g",
+      "name": "Līva Spandega",
+      "calendar": "6.06.2022"
+    },
+    {
+      "id": 23,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/05/career.png",
+      "main": "9 Career advancement tips for employees",
+      "text": "If you’ve been recently thinking on ways to advance in your career, this article with nine practical tips is the perfect read for you Land your dream job or score that desired promotion!",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/43093be3621c289168c939fded4bd057?s=40&d=mm&r=g",
+      "name": "Guest Author",
+      "calendar": "30.05.2022"
+    }
+  ],
+  "midbloging": [
+    {
+      "id": 24,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/05/workforce-analytics.png",
+      "main": "Your company needs workforce analytics – here’s why",
+      "text": "Much like how marketing analytics tools allow you to track, analyze, and optimize customer behavior, workforce analytics helps you do something similar…",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/17a01547506e289b02ed7f689b82b628?s=40&d=mm&r=g",
+      "name": "Viesturs Abelis",
+      "calendar": "27.05.2022"
+    },
+    {
+      "id": 25,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/05/employee-attendance.png",
+      "main": "How an employee attendance tracker can help you keep your team organized",
+      "text": "If you’re a team manager, keeping an eye out on what everyone is doing and when can become tricky, but luckily, there’s…",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/49eb79d59d9c58cddc369d67ab69dc22?s=40&d=mm&r=g",
+      "name": "Līva Spandega",
+      "calendar": "25.05.2022"
+    },
+    {
+      "id": 26,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/06/digital-nomads.png",
+      "main": "The pros and cons of hiring digital nomads",
+      "text": "What are the opportunities and challenges of hiring digital nomads for your company? Have a read and you’ll find out!",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
+      "name": "Krista Krumina",
+      "calendar": "9.06.2022"
+    }
+  ],
+  "downbloging": [
+    {
+      "id": 27,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/06/workforce-analytics.png",
+      "main": "11 clocking in apps for your business",
+      "text": "We’ve come a long way since the 1880s when the first mechanical time recorder to punch in and out was invented. But, although technologies have changed, the need to keep up with your team’s hours has stayed the same. So this is where clocking in apps come in.",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/49eb79d59d9c58cddc369d67ab69dc22?s=40&d=mm&r=g",
+      "name": "Līva Spandega",
+      "calendar": "6.06.2022"
+    },
+    {
+      "id": 28,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/05/career.png",
+      "main": "9 Career advancement tips for employees",
+      "text": "If you’ve been recently thinking on ways to advance in your career, this article with nine practical tips is the perfect read for you Land your dream job or score that desired promotion!",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/43093be3621c289168c939fded4bd057?s=40&d=mm&r=g",
+      "name": "Guest Author",
+      "calendar": "30.05.2022"
+    },
+    {
+      "id": 29,
+      "Img": "https://desktime.com/blog/wp-content/uploads/2022/05/workforce-analytics.png",
+      "main": "Your company needs workforce analytics – here’s why",
+      "text": "Much like how marketing analytics tools allow you to track, analyze, and optimize customer behavior, workforce analytics helps you do something similar…",
+      "link": "Continue Reading",
+      "img": "https://secure.gravatar.com/avatar/17a01547506e289b02ed7f689b82b628?s=40&d=mm&r=g",
+      "name": "Viesturs Abelis",
+      "calendar": "27.05.2022"
+    }
+  ]
+}
