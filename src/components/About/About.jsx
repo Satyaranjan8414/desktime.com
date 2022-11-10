@@ -6,6 +6,8 @@ import MilesStone from "./AboutComponents/MilesStone";
 import VideoYou from "./AboutComponents/VideoYou";
 import Info from "../FAQ/DownSection/Info";
 
+
+//about page
 const About = () => {
   return (
     <>
