@@ -1,0 +1,39 @@
+.timer-input{
+    background-color: transparent;
+    border: 0;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.5em;
+    width: 50%;
+}
+
+.time-component{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 15%;
+}
+
+.input-component{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.input-component-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.input-container{
+    width:100%;
+}
+
+#play-btn{
+    width: 100%;
+}
+
+#play-icon{
+    padding: 2%;
+    border-radius: 50%;
+}

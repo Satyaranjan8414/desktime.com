@@ -1,0 +1,49 @@
+.container_background{
+    background-image: linear-gradient(green,#4ea819,yellowgreen);
+}
+.Main_container {
+    text-align: center;
+    height: 70vh;
+    width:25%;
+    margin:auto;
+    line-height: 5rem;
+  }
+  
+  .Main {
+    border-radius: 3rem;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+  }
+  
+  .light {
+    background-color: #DFE3EB;
+    color: #525BC4;
+  }
+  
+  .dark {
+    background-color: #282c34;
+    color: white;
+  }
+  
+  .theme-toggle-btn{
+    padding: 1%;
+    border: 0;
+    cursor: pointer;
+    bottom: 5%;
+    font-size: 0.5em;
+    position: absolute;
+  }
+  
+  .icon-light{
+      color: #DFE3EB;
+      background-color: #4ea819;
+  }
+  
+  .icon-dark{
+      background-color: #525BC4;
+      color: white;
+  }

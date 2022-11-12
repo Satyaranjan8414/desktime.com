@@ -1,0 +1,45 @@
+.timer-label {
+  background-color: transparent;
+  border: 0;
+  justify-content: center;
+  text-align: center;
+  font-size: 1.5em;
+  width: 50%;
+}
+
+.timer-item {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 8%;
+  padding: 25px;
+}
+
+.timer-component-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: 518px;
+  width: 534px;
+  z-index: 10;
+}
+
+.timer-label-container {
+  width: 100%;
+}
+
+#stop-btn {
+  width: 100%;
+  align-items: center;
+}
+
+#stop-icon {
+  padding: 2%;
+  border-radius: 50%;
+}
