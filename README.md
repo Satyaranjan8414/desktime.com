@@ -12,7 +12,7 @@ https://splendid-pegasus-4e8342.netlify.app/
 Executing the commands mentioned below one by one in your command line will help in making this React app .
 **Cloning**
 ```
-https://github.com/ShravaniMishra/Ketto.git
+https://github.com/Satyaranjan8414/desktime.com
 npm install
 ```
 **To run the react app execute below command**
