@@ -76,13 +76,13 @@ There are some Key Features which are added in website clone such as:
 
 ### Special features:
 
-<p>
+
  ![Screenshot (298)](https://user-images.githubusercontent.com/107980582/207097066-6d8ebbff-f3e6-48de-8810-04dfe0f159a0.png)
 ![Screenshot (299)](https://user-images.githubusercontent.com/107980582/207097093-092e2bed-4b04-4ae1-bd2d-7cf0af5a0672.png)
 ![Screenshot (300)](https://user-images.githubusercontent.com/107980582/207097124-11fdbc5c-8510-4b2a-a42b-7efcd7852b50.png)
 ![Screenshot (301)](https://user-images.githubusercontent.com/107980582/207097141-bb27edb1-f007-4d6e-a4f9-117ccf9ce684.png)
 
-</p>
+
 
 
 
