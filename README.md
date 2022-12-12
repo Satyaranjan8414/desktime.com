@@ -44,14 +44,14 @@ json-server db.json --port 3004
 - Fullscreen mode
 - Fully responsive( supported in all devices)
 ### Landing Page :
-The Landing Page of Ketto website displays various funds, success stories and chatbot application.
+The Landing Page of desktime website displays various funds, success stories and chatbot application.
 In top section there is a Header which displays varius section links of website.
 Sliders are included in the page, popups are shown when hovered.
 At the bottom section there is a footer, both Header & Footer are same across all the pages.
 The page is responsive for all screen sizes.
 <br/>
 
-<br><img src="https://i.ibb.co/4S21scV/Screenshot-233.png" width="500"/><br/>
+<img src="https://i.ibb.co/ZWVgtL2/Screenshot-295.png" alt="Screenshot-295" border="0">
 The library used for icon is:"https://iconify.design/"
 <br/>
 ### Login Page:
