@@ -77,13 +77,11 @@ There are some Key Features which are added in website clone such as:
 ### Special features:
 
 <p>
-  <a href="https://ibb.co/HDhnDPB"><img src="https://i.ibb.co/1fz8fX7/Screenshot-265.png" alt="Screenshot-265" border="0"></a>
-  
-<a href="https://ibb.co/sbhCCt1"><img src="https://i.ibb.co/n6TBBR1/Screenshot-250.png" alt="Screenshot-250" border="0"></a><br />
-  
-<a href="https://ibb.co/x6RjFXX"><img src="https://i.ibb.co/jD1MJbb/Screenshot-252.png" alt="Screenshot-252" border="0"></a>  
-  
-<a href="https://ibb.co/y58jKpf"><img src="https://i.ibb.co/bLr9YFW/Screenshot-263.png" alt="Screenshot-263" border="0"></a> 
+ ![Screenshot (298)](https://user-images.githubusercontent.com/107980582/207097066-6d8ebbff-f3e6-48de-8810-04dfe0f159a0.png)
+![Screenshot (299)](https://user-images.githubusercontent.com/107980582/207097093-092e2bed-4b04-4ae1-bd2d-7cf0af5a0672.png)
+![Screenshot (300)](https://user-images.githubusercontent.com/107980582/207097124-11fdbc5c-8510-4b2a-a42b-7efcd7852b50.png)
+![Screenshot (301)](https://user-images.githubusercontent.com/107980582/207097141-bb27edb1-f007-4d6e-a4f9-117ccf9ce684.png)
+
 </p>
 
 
