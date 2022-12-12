@@ -60,7 +60,8 @@ Existing user can Login and new user's can SignUp themselves on page.
 From NavigationBar of Landing Page.
 <br>
 <br>
-<img src="https://i.ibb.co/tX34C3H/Screenshot-248.png" width="500"/>
+![Screenshot (296)](https://user-images.githubusercontent.com/107980582/207096331-637619ca-f729-4288-8c8d-bb08a048ab3d.png)
+
 <br/>
 <br/>
 
@@ -68,7 +69,8 @@ After Login user direcly redirect to home page.
 There are many Child pages linked to the Landing page and after login page, but for this clone following pages are made.
 ### Fundraiser form page :
 
-<a href="https://ibb.co/6PRLcSJ"><img src="https://i.ibb.co/MVDQyH5/Screenshot-253.png" alt="Screenshot-253" border="0"></a>
+
+![Screenshot (297)](https://user-images.githubusercontent.com/107980582/207096637-592e8ebb-826a-4807-b04d-2f98bf0bccce.png)
 
 There are some Key Features which are added in website clone such as:
 
