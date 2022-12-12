@@ -51,7 +51,8 @@ At the bottom section there is a footer, both Header & Footer are same across al
 The page is responsive for all screen sizes.
 <br/>
 
-<img src="https://i.ibb.co/ZWVgtL2/Screenshot-295.png" alt="Screenshot-295" border="0" />
+![Screenshot (295)](https://user-images.githubusercontent.com/107980582/207095632-00715172-d996-455a-84f6-421d4c226aa4.png)
+
 The library used for icon is:"https://iconify.design/"
 <br/>
 ### Login Page:
