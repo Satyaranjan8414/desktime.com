@@ -1,11 +1,11 @@
 <img src="https://desktime.com/static/logo/logo-dark-without-padding.svg" width="400"/>
 
-## Solo Project - a task to Clone the ketto.org Website.
+## Alone Project - a task to Clone the desktime Website.
 
 
 ## See My Live Website
 
-https://shravani-ketto.netlify.app/
+https://splendid-pegasus-4e8342.netlify.app/
 
 ## Installing and Running
 
