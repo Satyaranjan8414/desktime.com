@@ -51,7 +51,7 @@ At the bottom section there is a footer, both Header & Footer are same across al
 The page is responsive for all screen sizes.
 <br/>
 
-![Screenshot (295)](https://user-images.githubusercontent.com/107980582/207095632-00715172-d996-455a-84f6-421d4c226aa4.png)
+![Screenshot (371)](https://user-images.githubusercontent.com/107980582/229875907-b10e28d1-086c-41db-b21d-3cf10345496f.png)
 
 The library used for icon is:"https://iconify.design/"
 <br/>
@@ -60,7 +60,7 @@ Existing user can Login and new user's can SignUp themselves on page.
 From NavigationBar of Landing Page.
 <br>
 <br>
-![Screenshot (296)](https://user-images.githubusercontent.com/107980582/207096331-637619ca-f729-4288-8c8d-bb08a048ab3d.png)
+![Screenshot (372)](https://user-images.githubusercontent.com/107980582/229875935-9c1573e6-e500-4ff4-9eff-d0e8ddbbc8e4.png)
 
 <br/>
 <br/>
@@ -70,19 +70,17 @@ There are many Child pages linked to the Landing page and after login page, but 
 ### Fundraiser form page :
 
 
-![Screenshot (297)](https://user-images.githubusercontent.com/107980582/207096637-592e8ebb-826a-4807-b04d-2f98bf0bccce.png)
+![Screenshot (373)](https://user-images.githubusercontent.com/107980582/229875984-abb7aacd-978a-4563-a244-9278a30087c6.png)
 
 There are some Key Features which are added in website clone such as:
 
 ### Special features:
 
 
- ![Screenshot (298)](https://user-images.githubusercontent.com/107980582/207097066-6d8ebbff-f3e6-48de-8810-04dfe0f159a0.png)
-![Screenshot (299)](https://user-images.githubusercontent.com/107980582/207097093-092e2bed-4b04-4ae1-bd2d-7cf0af5a0672.png)
-![Screenshot (300)](https://user-images.githubusercontent.com/107980582/207097124-11fdbc5c-8510-4b2a-a42b-7efcd7852b50.png)
-![Screenshot (301)](https://user-images.githubusercontent.com/107980582/207097141-bb27edb1-f007-4d6e-a4f9-117ccf9ce684.png)
+
+![Screenshot (374)](https://user-images.githubusercontent.com/107980582/229876154-871abba6-5410-4403-84ba-41214c35ef4a.png)
 
 
-
+![Screenshot (375)](https://user-images.githubusercontent.com/107980582/229876160-cb040172-7db0-41c8-91fb-057555fa031a.png)
 
 
